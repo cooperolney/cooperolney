@@ -19,4 +19,4 @@ I'm a Data Science major with a Math minor at St. Lawrence University, passionat
 
 Recently, I've worked on projects that bridge data science and education by developing interactive, sports-themed teaching modules in R for undergraduate statistics and data science courses through the SCORE Network. I also have experience in developing web applications and interactive dashboards, handling both the user-facing design and data-driven functionality that make data more accessible and engaging.
 
-I'm especially interested in industries related to sports analytics and sustainability, where I can combine data data, technology, and creative problem-solving. I'm currently seeking opportunities to apply my data science skills to impactful, real-world projects.
+I'm especially interested in industries related to sports analytics and sustainability, where I can combine data, technology, and creative problem-solving. I'm currently seeking opportunities to apply my data science skills to impactful, real-world projects.
